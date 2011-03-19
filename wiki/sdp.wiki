@@ -40,8 +40,14 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 === 2. Organizacja projektu===
 
 ||Osoba||Rola||
-||...|| ||
-||...|| ||
+|| Marcin Jazgar || Program Manager ||
+|| Anna Komperda || Product Manager ||
+|| Andrzej Gondek || User Exp. ||
+|| Robert Skalny || User Exp. & Tester ||
+|| Dorota Muszyńska || Developer ||
+|| Olgierd Śliwiński || Developer ||
+|| Marek Przebięda || Tester ||
+
 
 === 3.	Harmonogram ===
 
