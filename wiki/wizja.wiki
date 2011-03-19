@@ -1,0 +1,69 @@
+#summary wizja
+
+= Symbol =
+== i nazwa projektu ==
+
+= Wizja = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||...|| || || ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+Autorzy:
+Imię i nazwisko
+(e-mail)
+
+
+=== 1. Wstęp ===
+
+
+Celem niniejszego dokumentu jest ogólne nakreślenie i scharakteryzowanie wymagań stawianych systemowi ze względu na jego przeznaczenie i sposób użycia, a także określenie najważniejszych założeń jego realizacji. Wszelkie decyzje implementacyjne nie są tu podejmowane i opisane zostaną w następnych dokumentach.
+
+
+  1.1. Słownik
+
+||Pojęcie||Definicja||
+||...|| ||
+||...|| ||
+
+Pojęcie związane z dziedziną produktu, wyjaśnienie
+
+  1.2. Odnośniki
+
+autor, „tytuł”
+Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentów odnoszących się do realizowanego systemu (np. powiązanych projektów na podstawie których powstaje opisywany projekt).
+
+=== 2. Opis problemu===
+Ogólny opis rozwiązywanego problemu na przykład w następującej formie: 
+
+  * Problem: Jaki problem ma być rozwiązany przez wdrożenie produktu?
+  * Przyczyna: Jaka jest przyczyna powstania powyższego problemu?
+  * Rozwiązanie: Co wniesie wdrożenie produktu, aby powyższy problem rozwiązać?
+
+=== 3. Opis użytkownika i zewnętrznych podsystemów===
+Opis kontekstu użytkowania systemu. Należy opisać tu zarówno użytkowników, jak i zewnętrzne systemy współpracujące z tworzonym oprogramowaniem.
+
+=== 4. Opis produktu===
+  * Ogólne spojrzenie na produkt - do czego ma służyć, zarys jego struktury, właściwości.
+  * Założenia i zależności
+
+=== 5. Wymagania funkcjonalne i ich priorytety===
+Wymagania funkcjonalne (co system "robi") w formie wyliczenia.
+
+=== 6. Wymagania jakościowe ===
+
+
+=== 7. Inne wymagania ===
+   * Stosowane standardy - Wymienić standardy zgodnie z którymi system ma zostać wykonany i funkcjonować – np. RUP, MSF, ISO itp.
+   * Wymagania systemowe i technologiczne - platforma wdrożenia, przenośność, wymagany sposób komunikacji w systemie rozproszonym itp.
+
+=== 8. Wymagania stawiane dokumentacji ===
+   * Podręcznik użytkownika – dla różnych profilów użytkownika (np. administrator, zwykły użytkownik), tutorial.
+   * Podręcznik instalacji i konfiguracji.
+   * Dokumentacja techniczna – dokumentacja kodu, opis testów.
