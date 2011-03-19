@@ -18,6 +18,7 @@ Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
 Autorzy:
 Imię i nazwisko
 (e-mail)
+ 
 
 
 === 1. Wstęp ===
