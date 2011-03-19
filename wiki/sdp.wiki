@@ -1,0 +1,61 @@
+#summary SDP
+
+= Symbol =
+== i nazwa projektu ==
+
+= Wizja = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||...|| || || ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+Autorzy:
+Imię i nazwisko
+(e-mail)
+
+
+=== 1. Wstęp ===
+
+Celem niniejszego dokumentu jest wyznaczenie ról poszczególnych uczestników projektu oraz przewidywanego harmonogramu prac.
+
+ 1.1. Słownik
+
+||Pojęcie||Definicja||
+||...|| ||
+||...|| ||
+
+Pojęcie związane z dziedziną produktu, wyjaśnienie
+
+  1.2. Odnośniki
+
+autor, „tytuł”
+Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentów odnoszących się do realizowanego systemu (np. powiązanych projektów na podstawie których powstaje opisywany projekt).
+
+=== 2. Organizacja projektu===
+
+||Osoba||Rola||
+||...|| ||
+||...|| ||
+
+=== 3.	Harmonogram ===
+
+||Faza||Iteracja||Główne cele||Produkty||Termin||
+||...|| || || || ||
+||...|| || || || ||
+
+
+==== 3.1. Iteracja ====
+
+==== 3.2. Iteracja ====
+
+
+=== 4. Plan testów ===
+
+
+=== 5. Plan akceptacji produktu ===
