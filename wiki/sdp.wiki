@@ -1,15 +1,13 @@
 #summary SDP
 
-= Symbol =
-== i nazwa projektu ==
-
-= Wizja = 
+=Klub tenisowy=
+= Software Development Plan = 
 
 
 
 Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
 ||Data||Wersja||Opis||Autor||
-||...|| || || ||
+||2011.03.28||1.0||Dodanie schematu poglądowego architektury systemu || Olgierd Śliwiński ||
 ||...|| || || ||
 ||...|| || || ||
 
@@ -33,7 +31,7 @@ Celem niniejszego dokumentu jest wyznaczenie ról poszczególnych uczestników p
 Pojęcie związane z dziedziną produktu, wyjaśnienie
 
   1.2. Odnośniki
-
+Schemat[schematArchitektury]
 autor, „tytuł”
 Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentów odnoszących się do realizowanego systemu (np. powiązanych projektów na podstawie których powstaje opisywany projekt).
 
