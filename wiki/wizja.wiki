@@ -87,11 +87,15 @@ System początkowo ma służyć do obsługi 1 placówki posiadającej 6 kortów 
    
 === 5. Wymagania funkcjonalne i ich priorytety ===
 
-Funkcjonalności dla klientów:
+Funkcjonalności dla klientów: 
 1. rezerwacja kortu
+
 2. anulowanie rezerwacji kortu
+
 3. zakładanie konta
+
 4. edycja konta
+
 5. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
 
 Funkcjonalności dla pracowników:
