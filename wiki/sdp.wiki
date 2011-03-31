@@ -31,7 +31,7 @@ Celem niniejszego dokumentu jest wyznaczenie ról poszczególnych uczestników p
 Pojęcie związane z dziedziną produktu, wyjaśnienie
 
   1.2. Odnośniki
-Schemat architektury [schematArchitektury]
+[Schemat architektury schematArchitektury] - 
 Olgierd Śliwiński
 
 Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentów odnoszących się do realizowanego systemu (np. powiązanych projektów na podstawie których powstaje opisywany projekt).
