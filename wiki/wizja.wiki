@@ -154,6 +154,7 @@ System ma być:
    
 7.1. Stosowane standardy
    
+
 7.2. Wymagania systemowe i technologiczne
 
 Wymagań co do technologii nie ma.
@@ -163,7 +164,9 @@ Wymagań co do technologii nie ma.
    
 8.1. Podręcznik użytkownika
 	
+
 8.2. Podręcznik instalacji i konfiguracji
    
+
 8.3. Dokumentacja techniczna
    
