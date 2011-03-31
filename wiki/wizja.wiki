@@ -88,6 +88,7 @@ System początkowo ma służyć do obsługi 1 placówki posiadającej 6 kortów 
 === 5. Wymagania funkcjonalne i ich priorytety ===
 
 Funkcjonalności dla klientów: 
+
 1. rezerwacja kortu
 
 2. anulowanie rezerwacji kortu
@@ -99,31 +100,53 @@ Funkcjonalności dla klientów:
 5. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
 
 Funkcjonalności dla pracowników:
+
 1. rezerwacja kortu
+
 2. rezerwacja zawodów
+
 3. anulowanie rezerwacji kortu
+
 4. anulowanie rezerwacji zawodów
+
 5. zakładanie konta klienta
+
 6. edycja konta klienta
+
 7. dodawanie do systemu nowych placówek klubu tenisowego
+
 • nadawanie placówkom nazwy
+
 8. dodawanie do systemu nowych kortów w ramach danej placówki
+
 • nadawanie kortom nazwy
+
 9. tworzenie listy konfliktów rezerwacji z zawodami
+
 10. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
+
 11. wysyłka maila z informacją o anulowaniu rezerwacji przez klub z powodu zawodów
+
 12. tworzenie listy dystrybucyjnej wszystkich klientów
+
 13. Potwierdzanie realizacji rezerwacji (potrzebne do statystyk)
+
 14. statystyki o klientach:
+
 • liczba klientów
+
 • klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
+
 
 
 === 6. Wymagania jakościowe ===
 
 System ma być:
+
 - przyjazny dla użytkowników (prosty i szybki w obsłudze)
+
 - niezawodny 
+
 - testowalny
 
 
