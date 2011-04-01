@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Specyfikacja wymagań.
 
 = Klub Tenisowy =
 
