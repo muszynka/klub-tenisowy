@@ -1,12 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Schemat bazy danych.
 
 = Schemat bazy danych =
 
 Schemat[http://klub-tenisowy.googlecode.com/svn/wiki/schematBazyDanych.jpg]
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
