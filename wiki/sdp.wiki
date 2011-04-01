@@ -9,7 +9,7 @@ Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
 ||Data||Wersja||Opis||Autor||
 ||2011.03.28||1.0||Dodanie schematu poglądowego architektury systemu || Olgierd Śliwiński ||
 ||2011.04.01||1.1||Dodanie schatu bazy danych ||Olgierd Śliwiński ||
-||2011.04.01||1.2 ||Przeniesienie schematów do dokumenu SDA ||Marcin Jazgar||
+||2011.04.01||1.2 ||Przeniesienie schematów do dokumenu SAD ||Marcin Jazgar||
 ||...|| || || ||
 ||...|| || || ||
 
