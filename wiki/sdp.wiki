@@ -8,15 +8,15 @@
 Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
 ||Data||Wersja||Opis||Autor||
 ||2011.03.28||1.0||Dodanie schematu poglądowego architektury systemu || Olgierd Śliwiński ||
-||2011.04.01||1.0||Dodanie schatu bazy danych ||Olgierd Śliwiński ||
+||2011.04.01||1.1||Dodanie schatu bazy danych ||Olgierd Śliwiński ||
+||2011.04.01||1.2 ||Przeniesienie schematów do dokumenu SDA ||Marcin Jazgar||
+||...|| || || ||
 ||...|| || || ||
 
 
 
 Autorzy:
-Imię i nazwisko
-(e-mail)
-
+Marcin Jazgar
 
 === 1. Wstęp ===
 
@@ -31,10 +31,6 @@ Celem niniejszego dokumentu jest wyznaczenie ról poszczególnych uczestników p
 Pojęcie związane z dziedziną produktu, wyjaśnienie
 
   1.2. Odnośniki
-[schematArchitektury Schemat architektury] - 
-Olgierd Śliwiński
-
-[schematBazyDanych Schemat bazy danych]
 
 Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentów odnoszących się do realizowanego systemu (np. powiązanych projektów na podstawie których powstaje opisywany projekt).
 
