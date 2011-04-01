@@ -1,0 +1,45 @@
+#summary Rejestr Ryzyka.
+
+= Klub Tenisowy =
+
+
+= Rejestr Ryzyka = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||5.03.2011||1.0 || Utworzenie dokumentu || Marcin Jazgar ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+
+Autorzy:
+Marcin Jazgar
+
+
+== 1. Wstęp ==
+
+Celem niniejszego dokumentu jest identyfikacja zagrożeń i odpowiednich sposobów zapobiegania zagrożeniom.
+
+== 2. Ryzyko ==
+
+=== 2.1. Symptomy i prawdopodobieństwo wystąpienia ===
+
+- wygórowane wymagania klienta
+
+- konkurencyjny produkt na rynku
+
+- brak kompetencji deweloperów do określonej technologii
+
+- brak odpowiednich narzędzi
+
+- klient nie do końca wie, czego chce
+
+=== 2.2. Skutki i stopień zagrożenia ===
+
+=== 2.3. Przeciwdziałania ===
+
+(prewencja, redukcja, eliminacja, alternatywy)
