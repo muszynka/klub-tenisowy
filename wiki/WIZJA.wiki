@@ -20,12 +20,12 @@ Autorzy:
 Anna Komperda 
 
 
-=== 1. Wstęp ===
+== 1. Wstęp ==
 
 
    Celem niniejszego dokumentu jest ogólne nakreślenie i scharakteryzowanie wymagań stawianych systemowi ze względu na jego przeznaczenie i sposób użycia, a także określenie najważniejszych założeń jego realizacji. Wszelkie decyzje implementacyjne nie są tu podejmowane i opisane zostaną w następnych dokumentach.
    
-  1.1. Słownik
+===  1.1. Słownik ===
 
 ||Pojęcie||Definicja||
 ||...|| ||
@@ -34,26 +34,26 @@ Anna Komperda
 Pojęcie związane z dziedziną produktu, wyjaśnienie
 
 
-1.2. Odnośniki
+=== 1.2. Odnośniki ===
 
 Rational Unified Process
 Microsoft Solution Framework ver. 3
 
-=== 2. Opis problemu ===
+== 2. Opis problemu ==
 
-2.1. Problem
+=== 2.1. Problem ===
 
 Brak systemu umożliwiającego sprawną i szybką rezerwację kortów w klubie tenisowym dla klientów oraz rezerwację zawodów tenisowych. Brak możliwości samodzielnej rezerwacji kortu przez klientów. Brak danych o klientach klubu tenisowego. Brak możliwości kontaktu z klientami w formie elektronicznej.
    
-2.2. Przyczyna
+=== 2.2. Przyczyna ===
 
 Sukcesywne zwiększanie się ilości klientów klubu, co utrudnia obsługę klientów w formie „papierowej”. Planowana rozbudowa klubu o kolejną placówkę.
   
-2.3. Rozwiązanie
+=== 2.3. Rozwiązanie ===
 
 System umożliwi klientom klubu dokonywanie rezerwacji samodzielnie za pośrednictwem przeglądarki www, usprawni proces obsługi rezerwacji przez recepcję klubu zarówno dla klientów indywidualnych oraz przy organizacji zawodów zawodów oraz da możliwość zbierania podstawowych informacji i statystyk o klientach klubu.
    
-=== 3. Opis użytkownika i zewnętrznych podsystemów ===
+== 3. Opis użytkownika i zewnętrznych podsystemów ==
 
 Użytkownicy systemu:
 
@@ -73,21 +73,21 @@ a) pocztą - funkcjonalność wysyłki maila z informacją o dokonanej rezerwacj
 b) nie przewiduje się powiązań z innymi systemami w tym z systemem płatności
 
 
-=== 4. Opis produktu ===
+== 4. Opis produktu ==
    
-4.1. Ogólne spojrzenie na produkt
+=== 4.1. Ogólne spojrzenie na produkt ===
 
 Produktem jest system do obsługi rezerwacji w klubie tenisowym, którego użytkownikami będą zarówno klienci jak i pracownicy klubu tenisowego. 
 
 Podstawowa funkcjonalność systemu to umożliwienie klientom dokonania rezerwacji kortów on-line, a pracownikom recepcji klubu danie możliwości rezerwacji kortów dla klientów zgłaszających rezerwację telefonicznie, bądź w siedzibie klubu oraz rezerwację zawodów.
 
    
-4.2. Założenia i zależności
+=== 4.2. Założenia i zależności ===
 
 System początkowo ma służyć do obsługi 1 placówki posiadającej 6 kortów tenisowych. System powinien mieć jednak możliwość obsługi nowo powstałych placówek i kortów.
 
    
-=== 5. Wymagania funkcjonalne i ich priorytety ===
+== 5. Wymagania funkcjonalne i ich priorytety ==
 
 Funkcjonalności dla klientów:
 
@@ -149,35 +149,35 @@ klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji je
 
 
 
-=== 6. Wymagania jakościowe ===
+== 6. Wymagania jakościowe ==
 
 System ma być:
 
-* przyjazny dla użytkowników (prosty i szybki w obsłudze)
+- przyjazny dla użytkowników (prosty i szybki w obsłudze)
 
-* niezawodny, szybki, stabilny
+- niezawodny, szybki, stabilny
 
-* łatwy do rozbudowy
+- łatwy do rozbudowy
 
-* testowalny
+- testowalny
 
 
-=== 7. Inne wymagania ===
+== 7. Inne wymagania ==
    
-7.1. Stosowane standardy
+=== 7.1. Stosowane standardy ===
    
 
-7.2. Wymagania systemowe i technologiczne
+=== 7.2. Wymagania systemowe i technologiczne ===
 
 Wymagań co do technologii nie ma.
 
    
-=== 8. Wymagania stawiane dokumentacji ===
+== 8. Wymagania stawiane dokumentacji ==
    
-8.1. Podręcznik użytkownika
+=== 8.1. Podręcznik użytkownika ===
 	
 
-8.2. Podręcznik instalacji i konfiguracji
+=== 8.2. Podręcznik instalacji i konfiguracji ===
    
 
-8.3. Dokumentacja techniczna
+=== 8.3. Dokumentacja techniczna ===
