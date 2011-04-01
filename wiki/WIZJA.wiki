@@ -89,17 +89,21 @@ System początkowo ma służyć do obsługi 1 placówki posiadającej 6 kortów 
    
 === 5. Wymagania funkcjonalne i ich priorytety ===
 
-Funkcjonalności dla klientów: 
+Funkcjonalności dla klientów:
 
 1. rezerwacja kortu
 
 2. anulowanie rezerwacji kortu
 
-3. zakładanie konta
+3. zakładanie konta (rejestracja)
 
-4. edycja konta
+4. logowanie do konta
 
-5. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
+5. edycja konta
+
+6. odzyskiwanie hasła do konta
+
+7. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
 
 Funkcjonalności dla pracowników:
 
@@ -111,33 +115,37 @@ Funkcjonalności dla pracowników:
 
 4. anulowanie rezerwacji zawodów
 
-5. zakładanie konta klienta
+5. wyszukiwanie klienta (po nr konta, po nazwisku)
 
-6. edycja konta klienta
+6. zakładanie konta klienta 
 
-7. dodawanie do systemu nowych placówek klubu tenisowego
+7. edycja konta klienta
 
-• nadawanie placówkom nazwy
+8. logowanie do sytemu
 
-8. dodawanie do systemu nowych kortów w ramach danej placówki
+9. dodawanie do systemu nowych placówek klubu tenisowego
+nadawanie placówkom nazwy
 
-• nadawanie kortom nazwy
+10. dodawanie do systemu nowych kortów w ramach danej placówki
+nadawanie kortom nazwy
 
-9. tworzenie listy konfliktów rezerwacji z zawodami
+11. tworzenie listy konfliktów rezerwacji z zawodami
 
-10. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
+12. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
 
-11. wysyłka maila z informacją o anulowaniu rezerwacji przez klub z powodu zawodów
+13. wysyłka maila z informacją o anulowaniu rezerwacji przez klub z powodu zawodów
 
-12. tworzenie listy dystrybucyjnej wszystkich klientów
+14. tworzenie listy dystrybucyjnej wszystkich klientów
 
-13. Potwierdzanie realizacji rezerwacji (potrzebne do statystyk)
+15. Potwierdzanie realizacji rezerwacji (potrzebne do statystyk)
 
-14. statystyki o klientach:
+16. statystyki o klientach:
 
-• liczba klientów
+liczba klientów
 
-• klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
+klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
+
+
 
 
 
@@ -145,11 +153,13 @@ Funkcjonalności dla pracowników:
 
 System ma być:
 
-- przyjazny dla użytkowników (prosty i szybki w obsłudze)
+* przyjazny dla użytkowników (prosty i szybki w obsłudze)
 
-- niezawodny 
+* niezawodny, szybki, stabilny
 
-- testowalny
+* łatwy do rozbudowy
+
+* testowalny
 
 
 === 7. Inne wymagania ===
