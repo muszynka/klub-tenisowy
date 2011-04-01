@@ -1,0 +1,154 @@
+#summary One-sentence summary of this page.
+
+= Klub Tenisowy =
+
+
+= Specyfikacja wymagań = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||1.04.2011||1.0 || Utworzenie dokumentu, redakcja i poprawki || Marcin Jazgar ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+
+Autorzy:
+Anna Komperda
+Marcin Jazgar
+
+
+== 1. Wstęp ==
+
+
+   Celem niniejszego dokumentu jest szczegółowe scharakteryzowanie wymagań funkcjonalnych stawianych systemowi ze względu na jego przeznaczenie i sposób użycia.
+   
+===  1.1. Słownik ===
+
+||Pojęcie||Definicja||
+||...|| ||
+||...|| ||
+
+===  1.2. Odnośniki ===
+
+== 2. Aktor: Klient ==
+
+
+=== 2.1  Rezerwacja dla klienta ===
+
+
+Osoba zainteresowana rezerwacja kortu wchodzi po raz pierwszy na stronę internetową klubu tenisowego. Klika w menu na pozycję „rezerwacja kortów”, gdzie widnieje informacja, że trzeba być zalogowanym, by dokonać rezerwacji. Osoba klika w link „zaloguj”, po przejściu na stronę z logowaniem pojawia się informacja „Jeśli nie posiadasz jeszcze konta, zarejestruj się”. Osoba klika w opcję rejestracji, wypełnia potrzebne pola (imię nazwisko, e-mail, hasło, powtórzone hasło) oraz klika „rejestruj”. Po kliknięciu pojawia się informacja, że na adres e-mail została wysłana wiadomość, w której znajduje się link aktywujący konto (aktywacja po kliknięciu w link). Osoba wchodzi na pocztę klika w link, który przenosi ją do jej konta w stanie zalogowanym, osoba może dokonać rezerwacji. W tym celu wybiera z kalendarza konkretną datę, kort oraz termin, którym jest zainteresowana, zaznacza checkbox obok terminu i klika „rezerwuj”. Pojawia się informacja, że rezerwacja została wykonana oraz informacja o mailu wysłanym na adres użytkownika ze szczegółami rezerwacji (gdyby użytkownik zapomniał, jaki termin zarezerwował, w każdym momencie może sięgnąć do tej informacji w mailu.
+
+Klient za pomocą przeglądarki wchodzi na stronę klubu. Aby dokonać rezerwacji  loguje się do konta (login: adres e-mail, oraz hasło), bądź jeśli konta nie ma, rejestruje się.
+
+Przy rejestracji podaje dane:
+
+- adres e-mail
+
+- imię i nazwisko
+
+- nr telefonu (fakultatywny)
+
+- hasło 
+
+- powtórzenie hasła
+
+- checkbox - zgoda na przesyłanie newslettera  (fakultatywny)
+
+Klient loguje się (login: adres e-mail oraz hasło). Po zalogowaniu pojawia się kalendarz z funkcją rezerwacji.
+
+Ścieżka rezerwacji:
+
+- wybór daty w kalendarzu
+
+- pojawia się lista dostępnych kortów w wybranym terminie
+
+- wybór kortu
+
+- pojawia się lista dostępnych terminów dla wybranych parametrów 
+
+- użytkownik zaznacza checkbox przy wybranym terminie i klika przycisk rezerwuj
+
+
+
+
+
+
+== 3. Aktor: Pracownik (recepcjonista) ==
+
+=== 3.1 Kontakt telefoniczny od stałego klienta ===
+
+Do recepcji klubu tenisowego dzwoni potencjalny klient i prosi o podanie informacji o dostępności kortu w podanym terminie i o jego rezerwację. Recepcjonista pyta klienta, czy posiada konto użytkownika. Klient potwierdza, że posiada konto. Recepcjonista prosi o podanie imienia i nazwiska, bądź nr konta. Po otrzymaniu odpowiedzi wyszukuje klienta i dokonuje rezerwacji na podany termin oraz informuje klienta, że na adres jego poczty została wysłany mail z potwierdzeniem rezerwacji.
+
+
+=== 3.2 Stały klient osobiście ===
+
+Do recepcji klubu tenisowego przychodzi stały klient i stwierdza ze chciałby skorzystać z kortu tenisowego. Recepcjonista pyta klienta o rezerwacje usługi, ten jednak stwierdza, iż nie posiada rezerwacji. Recepcjonista pyta klienta o nazwisko lub numer klienta, wpisuje dane w wyszukiwarkę klientów w systemie, po znalezieniu klienta sprawdza dostępność kortów w danym dniu i na podstawie grafika rezerwuje wybrany przez klienta termin. W momencie gdy usługa jest dostępna recepcjonista wynajmuje kort.
+
+=== 3.3 Rezerwacja ===
+
+- recepcjonista wybiera w systemie opcję „wyszukaj klienta” (wyszukiwanie po numerze klienta lub po nazwisku)
+
+- po znalezieniu konta klika przycisk „rezerwacja”, 
+
+- pokazuje się kalendarz
+
+- pojawia się lista dostępnych kortów w wybranym terminie
+
+- wybór kortu
+
+- pojawia się lista dostępnych terminów dla wybranych parametrów 
+
+- pracownik zaznacza checkbox przy wybranym terminie i klika przycisk rezerwuj
+
+- powiadamia klienta o tym, że rezerwacja została dokonana oraz o mailu z informacją o rezerwacji, który został wysłany na adres klienta
+
+
+=== 3.4 Nowy klient ===
+
+Do recepcji klubu tenisowego dzwoni potencjalny klient i prosi o podanie informacji o dostępności kortu w podanym terminie i o jego rezerwację. Recepcjonista pyta klienta, czy posiada konto użytkownika. Klient nie posiada jednak konta. Recepcjonista prosi zatem o podanie imienia, nazwiska, nr telefonu oraz adresu e-mail. Po założeniu konta dokonuje rezerwacji dla klienta oraz powiadamia klienta, że na adres jego poczty została wysłana informacja o założonym koncie (login i tymczasowe hasło, które należy zmienić przy pierwszym logowaniu w serwisie) oraz mail z potwierdzeniem rezerwacji.
+
+=== 3.5 Zakładania konta dla nowego klienta ===
+
+- recepcjonista wybiera z menu pozycję „dodaj klienta”
+
+- pojawia się formularz do wypełnienia danych o kliencie
+
+- recepcjonista prosi o podanie danych (imię, nazwisko, e-mail, nr telefonu) i wypełnia formularz
+
+- klika przycisk „załóż konto”
+
+- konto jest od razu aktywne i pracownik może dokonać rezerwacji
+
+- pracownik zachęca użytkownika do przeczytania maila, który został wysłany na adres jego poczty oraz zachęca do wejścia na swoje konto na stronie internetowej, powiadamia o możliwości samodzielnego dokonywania rezerwacji przez klienta
+
+- klient wchodzi na pocztę, klika w link w mailu, który dostał z klubu, który przekierowuje go do serwisu na jego konto
+
+- w koncie pokazuje się opcja i prośba o zmianę hasła tymczasowego oraz checkbox „zgoda na wysyłkę newsletttera
+
+- klient wprowadza nowe hasło i powtórzenie hasła oraz opcjonalnie może zaznaczyć checkbox
+
+- klika przycisk zapisz i pojawia się możliwość dokonania rezerwacji
+
+
+
+=== 3.5 Rezerwacja zawodów ===
+
+Do klubu zgłasza się organizator zawodów tenisowych, właściciel zleca recepcji rezerwacje zawodów w podanym terminie i prosi o odwołanie konfliktowych rezerwacji, które były zgłoszone przez klientów indywidualnych na ten termin. Recepcjonista klika w menu „rezerwuj zawody” po wprowadzeniu terminu dostaję listę konfliktowych rezerwacji z opcją zrzucenia. Klika przycisk „odwołaj rezerwację”, w tym momencie system wysyła maila do klientów, którym odwołano rezerwację. Lista osób, którym odwołano rezerwacje zapisuje się w systemie. Pracownik ma możliwość sięgnąć do nie w każdej chwili i np. dodatkowo zadzwonić do tych osób.
+
+Ścieżka rezerwacji zawodów:
+
+- pracownik klika w menu „rezerwuj zawody”  pojawia się kalendarz
+
+- po wprowadzeniu terminu (od … do … ) dostaję listę konfliktowych rezerwacji z opcją zrzucenia (wraz z informacja, dla kogo są rezerwacje)
+
+- klika przycisk „odwołaj rezerwacje” 
+
+- system wysyła maila do klientów, którym odwołano rezerwację
+
+- lista osób, którym odwołano rezerwacje zapisuje się w systemie (pracownik ma możliwość sięgnąć do nie w każdej chwili i np. dodatkowo zadzwonić do tych osób)
+
+- termin zawodów zostaje w kalendarzu rezerwacji zablokowany 
