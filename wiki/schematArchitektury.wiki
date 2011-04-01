@@ -1,8 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-Add your content here.
+= Schemat systemu =
 
 Schemat[http://klub-tenisowy.googlecode.com/svn/wiki/schematArchitektury.jpg]
 = Details =
