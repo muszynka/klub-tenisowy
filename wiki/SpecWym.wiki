@@ -34,6 +34,8 @@ Marcin Jazgar
 
 ===  1.2. Odnośniki ===
 
+[http://klub-tenisowy.googlecode.com/svn/wiki/UseCaseDiagram.png]
+
 == 2. Aktor: Klient ==
 
 
