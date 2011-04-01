@@ -34,7 +34,10 @@ Marcin Jazgar
 
 ===  1.2. Odnośniki ===
 
+
+
 [http://klub-tenisowy.googlecode.com/svn/wiki/UseCaseDiagram.png]
+Rys. 1. Model przypadków użycia
 
 == 2. Aktor: Klient ==
 
