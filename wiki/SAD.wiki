@@ -1,0 +1,39 @@
+#summary Architektura systemu.
+
+= Klub Tenisowy =
+
+
+= Architektura systemu = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||1.04.2011||1.0 || Utworzenie dokumentu || Marcin Jazgar ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+
+Autorzy:
+Marcin Jazgar
+
+
+== 1. Wstęp ==
+
+Celem niniejszego dokumentu jest prezentacja założeń podstawowych elementów architektury systemu.
+
+== 2. Założenia i cele architekturalne ==
+
+[schematArchitektury Schemat architektury]
+
+== 3. Model logiczny ==
+
+[schematBazyDanych Schemat bazy danych]
+
+
+== 4. Model implementacji ==
+
+
+== 5. Model wdrożenia ==
