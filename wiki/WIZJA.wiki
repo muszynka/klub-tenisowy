@@ -1,0 +1,173 @@
+#summary wizja
+
+= Klub Tenisowy =
+
+
+= Wizja = 
+
+
+
+Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
+||Data||Wersja||Opis||Autor||
+||31.03.2011||1.0 || || Anna Komperda ||
+||...|| || || ||
+||...|| || || ||
+
+
+
+
+Autorzy:
+Anna Komperda 
+
+
+=== 1. Wstęp ===
+
+
+   Celem niniejszego dokumentu jest ogólne nakreślenie i scharakteryzowanie wymagań stawianych systemowi ze względu na jego przeznaczenie i sposób użycia, a także określenie najważniejszych założeń jego realizacji. Wszelkie decyzje implementacyjne nie są tu podejmowane i opisane zostaną w następnych dokumentach.
+   
+  1.1. Słownik
+
+||Pojęcie||Definicja||
+||...|| ||
+||...|| ||
+
+Pojęcie związane z dziedziną produktu, wyjaśnienie
+
+
+1.2. Odnośniki
+
+Rational Unified Process
+Microsoft Solution Framework ver. 3
+
+=== 2. Opis problemu ===
+
+2.1. Problem
+
+Brak systemu umożliwiającego sprawną i szybką rezerwację kortów w klubie tenisowym dla klientów oraz rezerwację zawodów tenisowych. Brak możliwości samodzielnej rezerwacji kortu przez klientów. Brak danych o klientach klubu tenisowego. Brak możliwości kontaktu z klientami w formie elektronicznej.
+   
+2.2. Przyczyna
+
+Sukcesywne zwiększanie się ilości klientów klubu, co utrudnia obsługę klientów w formie „papierowej”. Planowana rozbudowa klubu o kolejną placówkę.
+  
+2.3. Rozwiązanie
+
+System umożliwi klientom klubu dokonywanie rezerwacji samodzielnie za pośrednictwem przeglądarki www, usprawni proces obsługi rezerwacji przez recepcję klubu zarówno dla klientów indywidualnych oraz przy organizacji zawodów zawodów oraz da możliwość zbierania podstawowych informacji i statystyk o klientach klubu.
+   
+=== 3. Opis użytkownika i zewnętrznych podsystemów ===
+
+Użytkownicy systemu:
+
+a) klienci klubu tenisowego
+
+Klientem może być każda osoba powyżej 15 roku życia. Klient ma dostęp do systemu za pomocą przeglądarki www. Klient ma podstawowy widok systemu i dostęp do ograniczonych funkcjonalności (opisane w wymaganiach). 
+
+b) pracownicy klubu tenisowego (recepcja oraz właściciel)
+
+Pracownicy mają dostęp do systemu zarówno z poziomu komputera, jak i przeglądarki www po uprzednim zalogowaniu się. Pracownik ma rozszerzony widok systemu i dostęp do pełnych funkcjonalności (opisane w wymaganiach). Istnieje możliwość nadawania dostępu do systemu nowym pracownikom.
+
+
+System rezerwacji będzie powiązany z:
+
+a) pocztą - funkcjonalność wysyłki maila z informacją o dokonanej rezerwacji oraz powiadomienia o odwołanych przez klub rezerwacjach (w przypadku zawodów).
+
+b) nie przewiduje się powiązań z innymi systemami w tym z systemem płatności
+
+
+=== 4. Opis produktu ===
+   
+4.1. Ogólne spojrzenie na produkt
+
+Produktem jest system do obsługi rezerwacji w klubie tenisowym, którego użytkownikami będą zarówno klienci jak i pracownicy klubu tenisowego. 
+
+Podstawowa funkcjonalność systemu to umożliwienie klientom dokonania rezerwacji kortów on-line, a pracownikom recepcji klubu danie możliwości rezerwacji kortów dla klientów zgłaszających rezerwację telefonicznie, bądź w siedzibie klubu oraz rezerwację zawodów.
+
+   
+4.2. Założenia i zależności
+
+System początkowo ma służyć do obsługi 1 placówki posiadającej 6 kortów tenisowych. System powinien mieć jednak możliwość obsługi nowo powstałych placówek i kortów.
+
+   
+=== 5. Wymagania funkcjonalne i ich priorytety ===
+
+Funkcjonalności dla klientów: 
+
+1. rezerwacja kortu
+
+2. anulowanie rezerwacji kortu
+
+3. zakładanie konta
+
+4. edycja konta
+
+5. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
+
+Funkcjonalności dla pracowników:
+
+1. rezerwacja kortu
+
+2. rezerwacja zawodów
+
+3. anulowanie rezerwacji kortu
+
+4. anulowanie rezerwacji zawodów
+
+5. zakładanie konta klienta
+
+6. edycja konta klienta
+
+7. dodawanie do systemu nowych placówek klubu tenisowego
+
+• nadawanie placówkom nazwy
+
+8. dodawanie do systemu nowych kortów w ramach danej placówki
+
+• nadawanie kortom nazwy
+
+9. tworzenie listy konfliktów rezerwacji z zawodami
+
+10. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
+
+11. wysyłka maila z informacją o anulowaniu rezerwacji przez klub z powodu zawodów
+
+12. tworzenie listy dystrybucyjnej wszystkich klientów
+
+13. Potwierdzanie realizacji rezerwacji (potrzebne do statystyk)
+
+14. statystyki o klientach:
+
+• liczba klientów
+
+• klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
+
+
+
+=== 6. Wymagania jakościowe ===
+
+System ma być:
+
+- przyjazny dla użytkowników (prosty i szybki w obsłudze)
+
+- niezawodny 
+
+- testowalny
+
+
+=== 7. Inne wymagania ===
+   
+7.1. Stosowane standardy
+   
+
+7.2. Wymagania systemowe i technologiczne
+
+Wymagań co do technologii nie ma.
+
+   
+=== 8. Wymagania stawiane dokumentacji ===
+   
+8.1. Podręcznik użytkownika
+	
+
+8.2. Podręcznik instalacji i konfiguracji
+   
+
+8.3. Dokumentacja techniczna
