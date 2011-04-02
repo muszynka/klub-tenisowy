@@ -28,6 +28,61 @@ Celem niniejszego dokumentu jest prezentacja założeń podstawowych elementów 
 
 [schematArchitektury Schemat architektury]
 
+Struktura głównej strony www
+
+Jest to jeden z głównych modułów systemu zapewniający komunikację z klientami. Zakłada się, że informacja publikowana jest w strukturze hierarchicznej (drzewo):
+Struktura podstawowa serwisu  rozbudowana na 3 poziomy
+Menu główne obejmuje tematyczne moduły informacyjne
+Menu na niższych poziomach zawiera elementy z wyższego poziomu i nawiązanie do głównych punktów menu głównego
+
+Z godnie projektem opracowano uniwersalną strukturę strony, z możliwością realizacji wersji strony  w układzie dwu lub trzy kolumnowym, z kolumną menu, kolumną informacyjną i kolumną uniwersalną (wydzielone elementy informacji – komunikaty, banery, lista odsyłaczy):
+
+1.
+Nagłówek strony (Logo , Informacja o podmiocie, logo podmiotu, linki) 
+2.
+Panel  główny (informacje, ogłoszenia, kalendarz)
+3.
+Stopka  ( elementy narzędziowe, metka serwisu)
+4.
+Menu lewe 
+5.
+Menu prawe – ogłoszenia, banery, odsyłacze, komunikaty
+
+Strony formatowane są za pomocą arkuszy styli (CSS), co zapewnia jednolity wygląd prezentowanych informacji oraz pozwala oddzielić warstwę prezentacji od warstwy zarządzania informacją. W systemie zdefiniowane są najważniejsze style określające format wyświetlania informacji takich jak: 
+Nagłówki stron (kilka poziomów)
+Treść 
+Listy wyliczeniowe
+Linki hipertekstu
+Pozycje menu
+
+Istnieje również możliwość definiowania przez administratora nowych styli co zapewnia praktycznie nieograniczone możliwości formatowania.
+
+Zgodnie z wymaganiami strona Klubu będzie zawierać:
+logo (znak graficzny, fotografia reklamowa)
+odsyłacz do strony kontaktu z klubem czyli: imię i nazwisko, numer telefonu, nr faksu, adres e-mail, adres, numer konta, mapka dojazdu  
+odsyłacz do instrukcji korzystania z konta logowanego
+mapa strony 
+moduł wyszukujący
+odsyłacz do informacji statystycznych o liczbie odwiedzin strony – statystyka strony 
+menu lewe z odsyłaczami do:
+ogłoszenia bieżące
+artykuły wydarzeń
+oferta z cennikiem
+przegląd kortów z galerią zdjęć 
+trenerzy
+turnieje
+o firmie (zarząd, regulamin klubu)
+logowanie do konta (rejestracja, odzyskiwanie hasła)
+bandery reklamowe
+sklep klubowy (sprzęt, gadżety, odżywki)
+Panel główny zawiera:
+kalendarz z możliwością przeglądania dostępności kortów
+legenda kalendarza
+po zalogowaniu rezerwacja kortów
+telefony i email do recepcji klubu
+
+Moduł prezentacji umożliwia publikację informacji z bazy danych rezerwacji.
+
 == 3. Model logiczny ==
 
 [schematBazyDanych Schemat bazy danych]
