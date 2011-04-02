@@ -108,6 +108,7 @@ Funkcjonalności dla klientów:
 
 7. wysyłka maila z informacją o rezerwacji na adres mailowy klienta
 
+
 Funkcjonalności dla pracowników:
 
 1. rezerwacja kortu
@@ -149,7 +150,15 @@ liczba klientów
 klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
 
 
+Funkcjonalności dla administratora:
 
+1. nadawania uprawnień nowym pracownikom 
+
+2. usuwania kont użytkowników
+
+3. dodawania nowych kortów do systemu
+
+4. dodawanie nowych placówek do systemu
 
 
 == 6. Wymagania jakościowe ==
