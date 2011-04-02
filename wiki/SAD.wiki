@@ -39,7 +39,11 @@ Z godnie projektem opracowano uniwersalną strukturę strony, z możliwością r
 
 [http://klub-tenisowy.googlecode.com/svn/wiki/interfejs1.png]
 
+Rys.1
+
 [http://klub-tenisowy.googlecode.com/svn/wiki/interfejs2.png]
+
+Rys.2
 
 1.
 Nagłówek strony (Logo , Informacja o podmiocie, logo podmiotu, linki) 
