@@ -165,13 +165,15 @@ Funkcjonalności dla administratora:
 
 System ma być:
 
-- przyjazny dla użytkowników (prosty i szybki w obsłudze)
+- łatwy do rozbudowy o np. obsługę kart płatniczych
 
-- niezawodny, szybki, stabilny
+- mogący obsłużyć co najmniej 1200 klientów
 
-- łatwy do rozbudowy
+- mogący obsłużyć równolegle co najmniej 20 klientów
 
-- testowalny
+- działający dostatecznie szybko na komputerze o minimalnej specyfikacji: Procesor Pentium® 4, 2 GHz,1 GB RAM,
+
+- wymagana przestrzeń dyskowa na instalację 20MB
 
 
 == 7. Inne wymagania ==
