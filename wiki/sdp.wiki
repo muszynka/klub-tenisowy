@@ -49,8 +49,8 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 === 3.	Harmonogram ===
 
 ||Faza||Iteracja||Główne cele||Produkty||Termin||
-||...|| || || || ||
-||...|| || || || ||
+||Incepcja|| || || || 19.03.2011 ||
+||Konstrukcja|| || || ||29.05.2011 ||
 
 
 ==== 3.1. Iteracja ====
