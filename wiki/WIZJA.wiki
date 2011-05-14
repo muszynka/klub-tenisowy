@@ -63,7 +63,7 @@ Klientem może być każda osoba powyżej 15 roku życia. Klient ma dostęp do s
 
 b) pracownicy klubu tenisowego (recepcja oraz właściciel)
 
-Pracownicy mają dostęp do systemu zarówno z poziomu komputera, jak i przeglądarki www po uprzednim zalogowaniu się. Pracownik ma rozszerzony widok systemu i dostęp do pełnych funkcjonalności (opisane w wymaganiach). Istnieje możliwość nadawania dostępu do systemu nowym pracownikom.
+Pracownicy mają dostęp do systemu z poziomu przeglądarki www po uprzednim zalogowaniu się. Pracownik ma rozszerzony widok systemu i dostęp do pełnych funkcjonalności (opisane w wymaganiach). Istnieje możliwość nadawania dostępu do systemu nowym pracownikom.
 
 c) administrator systemu
 
