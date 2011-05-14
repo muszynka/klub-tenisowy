@@ -36,7 +36,7 @@ Marcin Jazgar
 
 
 
-[http://klub-tenisowy.googlecode.com/svn/wiki/UseCaseDiagram.png]
+[http://klub-tenisowy.googlecode.com/svn/wiki/UseCaseDiagramN.png]
 Rys. 1. Model przypadków użycia
 
 == 2. Aktor: Klient ==
