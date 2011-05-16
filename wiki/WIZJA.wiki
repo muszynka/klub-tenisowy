@@ -63,11 +63,7 @@ Klientem może być każda osoba powyżej 15 roku życia. Klient ma dostęp do s
 
 b) pracownicy klubu tenisowego (recepcja oraz właściciel)
 
-Pracownicy mają dostęp do systemu z poziomu przeglądarki www po uprzednim zalogowaniu się. Pracownik ma rozszerzony widok systemu i dostęp do pełnych funkcjonalności (opisane w wymaganiach). Istnieje możliwość nadawania dostępu do systemu nowym pracownikom.
-
-c) administrator systemu
-
-Administrator systemu ma dostęp do systemu po zalogowaniu. Ma możliwość usuwania kont użytkowników, nadawania uprawnień nowym pracownikom, dodawania nowych placówek i kortów.
+Pracownicy mają dostęp do systemu z poziomu przeglądarki www po uprzednim zalogowaniu się. Pracownik ma rozszerzony widok systemu i dostęp do pełnych funkcjonalności m.in. ma możliwość usuwania kont użytkowników, nadawania uprawnień nowym pracownikom, dodawania nowych placówek i kortów (opisane w wymaganiach).
 
 System rezerwacji będzie powiązany z:
 
@@ -149,16 +145,10 @@ liczba klientów
 
 klienci aktywni (klienci, których łączna ilość zrealizowanych rezerwacji jest powyżej x dostają rabat, informacja jest przypisana do konta )
 
+17. nadawania uprawnień nowym pracownikom 
 
-Funkcjonalności dla administratora:
+18. usuwania kont użytkowników
 
-1. nadawania uprawnień nowym pracownikom 
-
-2. usuwania kont użytkowników
-
-3. dodawania nowych kortów do systemu
-
-4. dodawanie nowych placówek do systemu
 
 
 == 6. Wymagania jakościowe ==
