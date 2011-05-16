@@ -9,9 +9,8 @@
 
 Opis zmian (tzw. baseline, kto modyfikował co i kiedy):
 ||Data||Wersja||Opis||Autor||
-||31.03.2011||1.0 || || Anna Komperda ||
-||13.05.2011|| || || Anna Komperda ||
-||16.05.2011|| ||zgodnie z ostatnimi ustalenia z klientem usunięty został administrator, a jego funkcje przeją pracownik || Anna Komperda ||
+||31.03.2011||1.0 ||zostały dodane opisy || Anna Komperda ||
+||16.05.2011||1.1 ||zgodnie z ostatnimi ustalenia z klientem usunięty został administrator, a jego funkcje przeją pracownik || Anna Komperda ||
 ||...|| || || ||
 
 
