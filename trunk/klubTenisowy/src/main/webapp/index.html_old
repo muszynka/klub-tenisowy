@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+<title>Pro edukatione</title>
+<link href="styl.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #999999;
+	background-image: url(grafika/tlo_body1.gif);
+}
+.styl2 {color: #ECE9D8}
+.styl3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.styl10 {font-size: 10px}
+-->
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="300" valign="top"><img src="grafika/header_01.jpg" width="300" height="119" border="0" usemap="#Map" /></td>
+    <td valign="top" background="grafika/header_02.gif">&nbsp;</td>
+    <td width="433" valign="top"><img src="grafika/header_03_2.gif" width="433" height="119" border="0" /></td>
+  </tr>
+</table>
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top"></td>
+    <td height="10" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="26" colspan="2" valign="top"><div align="left"><span class="styl3">KRAKOWSKIE STOWARZYSZENIE OŚWIATOWE<em>&nbsp; &nbsp; Pro edukatione</em></span></div></td>
+  </tr>
+  <tr>
+    <td width="187" valign="top"></td>
+    <td width="790" height="14" valign="top"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="187" height="233" border="0" cellpadding="0" cellspacing="0" class="tabela_menu_all">
+      <tr class="tabela_menu">
+        <td height="36" bgcolor="#FFFFFF" class="tabela_menu"><a href="news.html" target="okno" class="subnav">Strona główna</a></td>
+      </tr>
+      <tr class="tabela_menu">
+        <td height="36" bgcolor="#FFFFFF" class="tabela_menu"><a href="about.html" target="okno" class="subnav">O Stowarzyszeniu</a></td>
+      </tr>
+      <tr class="tabela_menu">
+        <td height="36" bgcolor="#FFFFFF" class="tabela_menu"><a href="partners.html" target="okno">Partnerzy</a></td>
+      </tr>
+      <tr class="tabela_menu">
+        <td height="36" bgcolor="#FFFFFF" class="tabela_menu"><a href="arch.html" target="okno">Działalność</a></td>
+      </tr>
+      <tr class="tabela_menu">
+        <td height="36" bgcolor="#FFFFFF" class="tabela_menu"><a href="contact.html" target="okno">Kontakt</a></td>
+      </tr>
+      <tr bgcolor="#ECE9D8" background="grafika/tlo_body1.gif">
+        <td height="17" background="grafika/tlo_body1.gif">&nbsp;</td>
+      </tr>
+      <tr bgcolor="#ECE9D8" background="grafika/tlo_body1.gif">
+        <td height="72"><a href="http://zsoi3.krakow.pl/"><img src="grafika/zsoi3.jpg" width="192" height="75" border="0" /></a></td>
+      </tr>
+      </table>
+    <iframe src="imieniny.html" width=180px scrolling="no" frameborder="0" style="background-image:url(grafika/tlo_body1.gif)"></iframe>
+    
+    <!-- stat.4u.pl NiE KaSoWaC -->
+<a target=_top href="http://stat.4u.pl/?proedukationekrakow"><br /><img src="http://adstat.4u.pl/s4u.gif" alt="statystyka" border="0" align="bottom"></a>
+<script language="JavaScript" type="text/javascript">
+<!--
+function s4upl() { return "&amp;r=er";}
+//-->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://adstat.4u.pl/s.js?proedukationekrakow"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+s4uext=s4upl();
+document.write('<img alt="statystyka" src="http://stat.4u.pl/cgi-bin/s.cgi?i=proedukationekrakow'+s4uext+'" width="1" height="1">')
+//-->
+</script>
+<noscript><img alt="statystyki" src="http://stat.4u.pl/cgi-bin/s.cgi?i=proedukationekrakow&amp;r=ns" width="1" height="1"></noscript>
+<!-- stat.4u.pl KoNiEc -->
+    
+    
+    
+    
+    
+    <td valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+        <tr>
+        <td valign="top" class="tabela_ogloszenia_srodek">
+       <iframe src="news.html" name="okno" id="autoiframe" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr bgcolor="#6666CC">
+    <td width="275%" bgcolor="#6666CC"><div align="center" class="styl2"><a href="contact.html" target="okno" class="s">redakcja</a>&nbsp;&nbsp;<a href="index.html" class="s">powrót</a> &nbsp;&nbsp;<a href="index.html" class="s">do góry</a> &nbsp;&nbsp;<a href="contact.html" class="s">Wyślij e-mailem </a></div></td>
+  </tr>
+  <tr>
+    <td>
+    <div align="center" class="tekst">Stowarzyszenie ProEdukatione Copyright C 2008. Design by <a href="mailto:skalnyro@wp.pl" class="s">Robot</a></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="1,1,299,111" href="news.html" target="okno" alt="strona główna" />
+</map></body>
+</html>
