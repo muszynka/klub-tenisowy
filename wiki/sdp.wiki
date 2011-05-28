@@ -56,7 +56,7 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 ||Konstrukcja|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||12.06.2011 ||
 ||Konstrukcja|| 4 || Dodawanie kortów i placówek, raporty || ||19.06.2011 ||
 ||Testy|| || || ||22.06.2011 ||
-||Poprawki|| || || ||28.05.2011 ||
+||Poprawki|| || || ||28.06.2011 ||
 ||Wdrożenie|| || || ||29.06.2011 ||
 
 
