@@ -51,13 +51,19 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 ||Faza||Iteracja||Główne cele||Produkty||Termin||
 ||Incepcja|| || Nakreślenie ogólnych wizji projektu || || 19.03.2011 ||
 ||Elaboracja|| || Rozwinięcie i uszczegółowienie projektu. Spotkania z klientem. || || 15.04.2011 ||
-||Konstrukcja|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||15.05.2011 ||
-||Konstrukcja|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||28.05.2011 ||
-||Konstrukcja|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||12.06.2011 ||
-||Konstrukcja|| 4 || Dodawanie kortów i placówek, raporty || ||19.06.2011 ||
-||Testy|| || || ||22.06.2011 ||
-||Poprawki|| || || ||28.06.2011 ||
-||Wdrożenie|| || || ||29.06.2011 ||
+||Konstrukcja|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||12.05.2011 ||
+||Testy|| 1 || || ||13.05.2011 ||
+||Poprawki|| 1 || || ||15.05.2011 ||
+||Konstrukcja|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||25.05.2011 ||
+||Testy|| 2 || || ||26.05.2011 ||
+||Poprawki|| 2 || || ||28.05.2011 ||
+||Konstrukcja|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||9.06.2011 ||
+||Testy|| || 3 || ||10.06.2011 ||
+||Poprawki|| 3 || || ||12.06.2011 ||
+||Konstrukcja|| 4 || Dodawanie kortów i placówek, raporty || ||16.06.2011 ||
+||Testy|| || 4 || ||17.06.2011 ||
+||Poprawki|| 4 || || ||19.06.2011 ||
+||Wdrożenie||  || || ||29.06.2011 ||
 
 
 
@@ -65,4 +71,9 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 
 [http://klub-tenisowy.googlecode.com/svn/wiki/PLAN_TESTOW2.pdf]
 
-=== 5. Plan akceptacji produktu ===
+=== 5. Plan przekazania etapów klientowi ===
+
+|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||15.05.2011 ||
+|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||28.05.2011 ||
+|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||12.06.2011 ||
+|| 4 || Dodawanie kortów i placówek, raporty || ||19.06.2011 ||
