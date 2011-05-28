@@ -28,17 +28,19 @@ Celem niniejszego dokumentu jest identyfikacja zagrożeń i odpowiednich sposob�
 
 === 2.1. Symptomy i prawdopodobieństwo wystąpienia ===
 
-- wygórowane wymagania klienta
+- wygórowane wymagania klienta - 50%
 
-- konkurencyjny produkt na rynku
+- konkurencyjny produkt na rynku - 10%
 
-- brak kompetencji deweloperów do określonej technologii
+- brak kompetencji deweloperów do określonej technologii - 20%
 
-- brak odpowiednich narzędzi
+- brak odpowiednich narzędzi - 5%
 
-- klient nie do końca wie, czego chce
+- klient nie do końca wie, czego chce - 70%
 
 === 2.2. Skutki i stopień zagrożenia ===
+
+
 
 === 2.3. Przeciwdziałania ===
 
