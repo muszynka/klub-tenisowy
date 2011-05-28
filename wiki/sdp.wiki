@@ -49,8 +49,8 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 === 3.	Harmonogram ===
 
 ||Faza||Iteracja||Główne cele||Produkty||Termin||
-||Incepcja|| || || || 19.03.2011 ||
-||Elaboracja|| || || || 15.04.2011 ||
+||Incepcja|| || Nakreślenie ogólnych wizji projektu || || 19.03.2011 ||
+||Elaboracja|| || Rozwinięcie i uszczegółowienie projektu. Spotkania z klientem. || || 15.04.2011 ||
 ||Konstrukcja|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||15.05.2011 ||
 ||Konstrukcja|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||28.05.2011 ||
 ||Konstrukcja|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||12.06.2011 ||
