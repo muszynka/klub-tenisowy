@@ -37,7 +37,7 @@ Menu na niższych poziomach zawiera elementy z wyższego poziomu i nawiązanie d
 
 Z godnie projektem opracowano uniwersalną strukturę strony, z możliwością realizacji wersji strony  w układzie dwu lub trzy kolumnowym, z kolumną menu, kolumną informacyjną i kolumną uniwersalną (wydzielone elementy informacji – komunikaty, banery, lista odsyłaczy):
 
-[http://klub-tenisowy.googlecode.com/svn/wiki/interfejs1.png]
+[http://klub-tenisowy.googlecode.com/svn/wiki/Intrfejs1.png]
 
 Rys.1
 
