@@ -2,4 +2,4 @@
 
 = Schemat bazy danych =
 
-Schemat[http://klub-tenisowy.googlecode.com/svn/wiki/schematBazyDanych.jpg]
+Schemat[http://klub-tenisowy.googlecode.com/svn/wiki/korty.PNG]
