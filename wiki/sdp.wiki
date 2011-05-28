@@ -67,6 +67,6 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 
 === 4. Plan testów ===
 
-[http://klub-tenisowy.googlecode.com/svn/wiki/PLAN_TESTOW.pdf]
+[http://klub-tenisowy.googlecode.com/svn/wiki/PLAN_TESTOW2.pdf]
 
 === 5. Plan akceptacji produktu ===
