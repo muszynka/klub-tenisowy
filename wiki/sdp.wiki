@@ -76,4 +76,5 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 || 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||15.05.2011 ||
 || 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||28.05.2011 ||
 || 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||12.06.2011 ||
-|| 4 || Dodawanie kortów i placówek, raporty || ||19.06.2011 ||
+|| 4 || Dodawanie kortów i placówek, raporty || ||20.06.2011 ||
+|| 5 || Ostateczne przekazanie klientowi || ||29.06.2011 ||
