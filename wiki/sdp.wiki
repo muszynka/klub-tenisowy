@@ -50,7 +50,15 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 
 ||Faza||Iteracja||Główne cele||Produkty||Termin||
 ||Incepcja|| || || || 19.03.2011 ||
-||Konstrukcja|| || || ||29.05.2011 ||
+||Elaboracja|| || || || 15.04.2011 ||
+||Konstrukcja|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||15.05.2011 ||
+||Konstrukcja|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||28.05.2011 ||
+||Konstrukcja|| 3 || Działająca rezerwacja (indywidualna i zawodów), odwołanie i anulowanie rezerwacji
+ || ||12.06.2011 ||
+||Konstrukcja|| 4 || Dodawanie kortów i placówek, raporty || ||19.06.2011 ||
+||Testy|| || || ||22.06.2011 ||
+||Poprawki|| || || ||28.05.2011 ||
+||Wdrożenie|| || || ||29.06.2011 ||
 
 
 ==== 3.1. Iteracja ====
@@ -60,5 +68,6 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 
 === 4. Plan testów ===
 
+[http://klub-tenisowy.googlecode.com/svn/wiki/PLAN_TESTOW.pdf]
 
 === 5. Plan akceptacji produktu ===
