@@ -51,17 +51,17 @@ Odnośniki do literatury "fachowej" (z dziedziny problemu) lub innych dokumentó
 ||Faza||Iteracja||Główne cele||Produkty||Termin||
 ||Incepcja|| || Nakreślenie ogólnych wizji projektu || || 19.03.2011 ||
 ||Elaboracja|| || Rozwinięcie i uszczegółowienie projektu. Spotkania z klientem. || || 15.04.2011 ||
-||Konstrukcja|| 1 || Przestawienie projektu graficznego. Ocena i ewentualne uwagi klienta || ||12.05.2011 ||
+||Konstrukcja|| 1 || Projekt graficzny. || ||12.05.2011 ||
 ||Testy|| 1 || || ||13.05.2011 ||
 ||Poprawki|| 1 || || ||15.05.2011 ||
-||Konstrukcja|| 2 || Postawiona strona wraz działającą funkcją rejestracji i logowania || ||25.05.2011 ||
+||Konstrukcja|| 2 || Postawienie strony wraz działającą funkcją rejestracji i logowania || ||25.05.2011 ||
 ||Testy|| 2 || || ||26.05.2011 ||
 ||Poprawki|| 2 || || ||28.05.2011 ||
-||Konstrukcja|| 3 || Działająca rezerwacja indywidualna i zawodów. Odwołanie i anulowanie rezerwacji || ||9.06.2011 ||
-||Testy|| || 3 || ||10.06.2011 ||
+||Konstrukcja|| 3 || Wprowadzanie rezerwacji indywidualnych i zawodów. Odwoływanie i anulowanie rezerwacji || ||9.06.2011 ||
+||Testy|| 3 || || ||10.06.2011 ||
 ||Poprawki|| 3 || || ||12.06.2011 ||
 ||Konstrukcja|| 4 || Dodawanie kortów i placówek, raporty || ||16.06.2011 ||
-||Testy|| || 4 || ||17.06.2011 ||
+||Testy|| 4 || || ||17.06.2011 ||
 ||Poprawki|| 4 || || ||19.06.2011 ||
 ||Wdrożenie||  || || ||29.06.2011 ||
 
